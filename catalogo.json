@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "actualizado": "2026-11-05T15:02:58",
+ "actualizado": "2026-11-05T15:59:20",
  "sucursales": [
   "Punto Villas",
   "Paseo de la Rosita"
@@ -774,7 +774,9 @@
    },
    "disponible": {
     "Punto Villas": {
-     "venta": [],
+     "venta": [
+      0
+     ],
      "decant": true
     }
    },
@@ -2035,7 +2037,14 @@
      "Ámbar"
     ]
    },
-   "disponible": {},
+   "disponible": {
+    "Paseo de la Rosita": {
+     "venta": [
+      80
+     ],
+     "decant": false
+    }
+   },
    "foto": "fotos/bottle-1793881474377.jpg"
   },
   {
