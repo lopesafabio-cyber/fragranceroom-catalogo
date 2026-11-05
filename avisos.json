@@ -1,7 +1,18 @@
 {
  "formato": 1,
- "actualizado": "2026-11-05T17:05:30",
+ "actualizado": "2026-11-05T17:06:16",
  "avisos": [
+  {
+   "id": 3,
+   "fecha": "2026-11-05T17:06:16",
+   "titulo": "✨ Recién llegados",
+   "texto": "Hay perfumes nuevos esperando a que los pruebes ✨\n\n🖤 Bleu de Chanel Eau de Parfum · Chanel\n    Huele a: cítrico, ámbar, amaderado\n    📍 Paseo de la Rosita: frasco 100 ml\n\n🖤 Galloway · Parfums de Marly\n    Huele a: cítrico, almizclado, fresco especiado\n    📍 Paseo de la Rosita: frasco 100 ml\n\n🖤 Santal 33 · Le Labo\n    Huele a: amaderado, atalcado, cuero\n    📍 Paseo de la Rosita: frasco 80 ml\n\n¿Cuál vas a probar primero? Te esperamos en Punto Villas y Paseo de la Rosita. 🖤",
+   "perfumes": [
+    26,
+    40,
+    4
+   ]
+  },
   {
    "id": 2,
    "fecha": "2026-11-05T15:02:58",
