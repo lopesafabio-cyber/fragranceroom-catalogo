@@ -1,0 +1,2552 @@
+{
+ "formato": 1,
+ "actualizado": "2026-11-05T12:53:08",
+ "sucursales": [
+  "Punto Villas",
+  "Paseo de la Rosita"
+ ],
+ "perfumes": [
+  {
+   "id": 19,
+   "nombre": "9pm",
+   "marca": "Afnan",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "vainilla",
+     100
+    ],
+    [
+     "ámbar",
+     63
+    ],
+    [
+     "cálido especiado",
+     60
+    ],
+    [
+     "afrutados",
+     57
+    ],
+    [
+     "canela",
+     55
+    ],
+    [
+     "dulce",
+     55
+    ],
+    [
+     "lavanda",
+     54
+    ],
+    [
+     "aromático",
+     51
+    ],
+    [
+     "fresco",
+     51
+    ],
+    [
+     "atalcado",
+     50
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Manzana",
+     "Canela",
+     "lavanda silvestre",
+     "Bergamota"
+    ],
+    "heart": [
+     "Flor de azahar",
+     "Lirio de los valles"
+    ],
+    "base": [
+     "Vainilla",
+     "Haba tonka",
+     "Ámbar",
+     "Pachulí"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901591185.jpg"
+  },
+  {
+   "id": 14,
+   "nombre": "Acqua di Gio",
+   "marca": "Giorgio Armani",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "aromático",
+     66
+    ],
+    [
+     "marino",
+     58
+    ],
+    [
+     "fresco especiado",
+     51
+    ],
+    [
+     "floral",
+     47
+    ],
+    [
+     "amaderado",
+     46
+    ],
+    [
+     "fresco",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Lima",
+     "Limón",
+     "Bergamota",
+     "Jazmín",
+     "Naranja",
+     "Mandarina",
+     "Neroli"
+    ],
+    "heart": [
+     "Notas marinas",
+     "Jazmín",
+     "Calona",
+     "Romero",
+     "Durazno",
+     "fresia",
+     "jacinto",
+     "ciclamen (violeta persa)",
+     "Violeta",
+     "cilantro",
+     "Rosa",
+     "Nuez moscada",
+     "reseda (miñoneta)"
+    ],
+    "base": [
+     "Almizcle blanco",
+     "Cedro",
+     "Musgo de roble",
+     "Pachulí",
+     "Ámbar"
+    ]
+   },
+   "disponible": {
+    "Punto Villas": {
+     "venta": [
+      100
+     ],
+     "decant": false
+    },
+    "Paseo de la Rosita": {
+     "venta": [
+      100
+     ],
+     "decant": false
+    }
+   },
+   "foto": "fotos/bottle-1793882627454.jpg"
+  },
+  {
+   "id": 13,
+   "nombre": "Acqua di Parma Colonia",
+   "marca": "Acqua di Parma",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "aromático",
+     85
+    ],
+    [
+     "fresco especiado",
+     72
+    ],
+    [
+     "amaderado",
+     66
+    ],
+    [
+     "lavanda",
+     62
+    ],
+    [
+     "fresco",
+     56
+    ],
+    [
+     "almizclado",
+     44
+    ]
+   ],
+   "notas": {
+    "general": [
+     "Cítricos sicilianos",
+     "Lavanda",
+     "Cedrón (hierba luisa)",
+     "Romero",
+     "Almizcle blanco",
+     "Vetiver",
+     "Rosa de Bulgaria",
+     "Jazmín",
+     "Sándalo",
+     "Pachulí",
+     "Ámbar",
+     "Verbena"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793882006973.jpg"
+  },
+  {
+   "id": 16,
+   "nombre": "Angels' Share",
+   "marca": "By Kilian",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cálido especiado",
+     100
+    ],
+    [
+     "amaderado",
+     100
+    ],
+    [
+     "dulce",
+     90
+    ],
+    [
+     "vainilla",
+     81
+    ],
+    [
+     "canela",
+     79
+    ],
+    [
+     "ámbar",
+     51
+    ],
+    [
+     "atalcado",
+     48
+    ]
+   ],
+   "notas": {
+    "top": [
+     "coñac"
+    ],
+    "heart": [
+     "Canela",
+     "Haba tonka",
+     "roble",
+     "Hedione"
+    ],
+    "base": [
+     "Vainilla",
+     "Praline",
+     "Sándalo",
+     "almendras acarameladas"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901515712.jpg"
+  },
+  {
+   "id": 38,
+   "nombre": "Aquatica",
+   "marca": "Rayhaan",
+   "concentracion": "",
+   "inspirado_en": "Virgin Island Water (Creed)",
+   "para": "hombre",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "dulce",
+     74
+    ],
+    [
+     "coco",
+     63
+    ],
+    [
+     "vainilla",
+     52
+    ],
+    [
+     "fresco especiado",
+     46
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Lima",
+     "leche de coco",
+     "Bergamota",
+     "Mandarina"
+    ],
+    "heart": [
+     "caña de azúcar",
+     "Jazmín",
+     "hibisco (flor de Jamaica",
+     "cayena)",
+     "Gardenia"
+    ],
+    "base": [
+     "Almizcle",
+     "Ron",
+     "Haba tonka",
+     "Pachulí"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793904743883.jpg"
+  },
+  {
+   "id": 2,
+   "nombre": "Aventus",
+   "marca": "Creed",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "afrutados",
+     100
+    ],
+    [
+     "dulce",
+     69
+    ],
+    [
+     "amaderado",
+     68
+    ],
+    [
+     "cuero",
+     64
+    ],
+    [
+     "cítrico",
+     60
+    ],
+    [
+     "ahumado",
+     57
+    ],
+    [
+     "almizclado",
+     55
+    ],
+    [
+     "fresco",
+     52
+    ],
+    [
+     "tropical",
+     52
+    ],
+    [
+     "musgoso",
+     47
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Bergamota",
+     "Grosellas negras",
+     "Manzana",
+     "Limón",
+     "Pimienta rosa"
+    ],
+    "heart": [
+     "Piña",
+     "Pachulí",
+     "jazmín de Marruecos"
+    ],
+    "base": [
+     "Abedul",
+     "Almizcle",
+     "Musgo de roble",
+     "Cedro",
+     "Ambroxan"
+    ]
+   },
+   "disponible": {
+    "Punto Villas": {
+     "venta": [
+      95
+     ],
+     "decant": false
+    }
+   },
+   "foto": "fotos/bottle-1793881373669.jpg"
+  },
+  {
+   "id": 1,
+   "nombre": "Baccarat Rouge 540 Extrait de Parfum",
+   "marca": "Maison Francis Kurkdjian",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "ámbar",
+     100
+    ],
+    [
+     "almendrado",
+     95
+    ],
+    [
+     "cálido especiado",
+     85
+    ],
+    [
+     "amaderado",
+     85
+    ],
+    [
+     "almizclado",
+     79
+    ],
+    [
+     "animálico",
+     72
+    ],
+    [
+     "nueces",
+     69
+    ],
+    [
+     "afrutados",
+     63
+    ],
+    [
+     "metálico",
+     62
+    ],
+    [
+     "floral blanco",
+     61
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Almendra amarga",
+     "Azafrán"
+    ],
+    "heart": [
+     "Jazmín egipcio",
+     "Cedro de Virginia"
+    ],
+    "base": [
+     "Ámbar gris",
+     "Notas amaderadas",
+     "Almizcle",
+     "Ambroxan",
+     "cachemira"
+    ]
+   },
+   "disponible": {
+    "Paseo de la Rosita": {
+     "venta": [],
+     "decant": true
+    }
+   },
+   "foto": "fotos/bottle-1793881321199.jpg"
+  },
+  {
+   "id": 17,
+   "nombre": "Black Opium",
+   "marca": "Yves Saint Laurent",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "mujer",
+   "acordes": [
+    [
+     "vainilla",
+     100
+    ],
+    [
+     "café",
+     87
+    ],
+    [
+     "dulce",
+     83
+    ],
+    [
+     "floral blanco",
+     77
+    ],
+    [
+     "cálido especiado",
+     75
+    ],
+    [
+     "suave especiado",
+     66
+    ],
+    [
+     "amaderado",
+     64
+    ],
+    [
+     "afrutados",
+     62
+    ],
+    [
+     "balsámico",
+     54
+    ],
+    [
+     "atalcado",
+     53
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Pera",
+     "Pimienta rosa",
+     "Flor de azahar"
+    ],
+    "heart": [
+     "Café",
+     "Jazmín",
+     "Almendra amarga",
+     "Regaliz"
+    ],
+    "base": [
+     "Vainilla",
+     "Pachulí",
+     "madera de cachemira",
+     "Cedro"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901541104.jpg"
+  },
+  {
+   "id": 26,
+   "nombre": "Bleu de Chanel Eau de Parfum",
+   "marca": "Chanel",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "ámbar",
+     89
+    ],
+    [
+     "amaderado",
+     75
+    ],
+    [
+     "fresco especiado",
+     70
+    ],
+    [
+     "aromático",
+     62
+    ],
+    [
+     "cálido especiado",
+     52
+    ],
+    [
+     "fresco",
+     50
+    ],
+    [
+     "ahumado",
+     50
+    ],
+    [
+     "balsámico",
+     49
+    ],
+    [
+     "atalcado",
+     44
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Toronja",
+     "Limón",
+     "Menta",
+     "Bergamota",
+     "Pimienta rosa",
+     "Aldehídos",
+     "cilantro"
+    ],
+    "heart": [
+     "Jengibre",
+     "Jazmín",
+     "Nuez moscada",
+     "Melón"
+    ],
+    "base": [
+     "Incienso",
+     "Ámbar",
+     "Cedro",
+     "Sándalo",
+     "Amberwood",
+     "Pachulí",
+     "ládano"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901871551.jpg"
+  },
+  {
+   "id": 6,
+   "nombre": "Chanel No 5 Eau de Parfum",
+   "marca": "Chanel",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "amaderado",
+     100
+    ],
+    [
+     "aldehídico",
+     85
+    ],
+    [
+     "fresco",
+     80
+    ],
+    [
+     "floral blanco",
+     78
+    ],
+    [
+     "atalcado",
+     69
+    ],
+    [
+     "terroso",
+     67
+    ],
+    [
+     "floral amarillo",
+     65
+    ],
+    [
+     "iris",
+     60
+    ],
+    [
+     "cítrico",
+     56
+    ],
+    [
+     "floral",
+     56
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Aldehídos",
+     "Ylang-ylang",
+     "Neroli",
+     "Bergamota",
+     "Durazno"
+    ],
+    "heart": [
+     "Iris",
+     "Jazmín",
+     "Rosa",
+     "Lirio de los valles"
+    ],
+    "base": [
+     "Sándalo",
+     "Musgo de roble",
+     "Vainilla",
+     "Pachulí",
+     "Vetiver"
+    ]
+   },
+   "disponible": {
+    "Punto Villas": {
+     "venta": [],
+     "decant": true
+    }
+   },
+   "foto": "fotos/bottle-1793881751624.jpg"
+  },
+  {
+   "id": 25,
+   "nombre": "Cool Water",
+   "marca": "Davidoff",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "aromático",
+     100
+    ],
+    [
+     "verde",
+     73
+    ],
+    [
+     "marino",
+     68
+    ],
+    [
+     "fresco especiado",
+     64
+    ],
+    [
+     "lavanda",
+     55
+    ],
+    [
+     "amaderado",
+     53
+    ],
+    [
+     "salado",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "agua de mar",
+     "Lavanda",
+     "Menta",
+     "Notas verdes",
+     "Romero",
+     "Calona",
+     "cilantro"
+    ],
+    "heart": [
+     "Sándalo",
+     "Neroli",
+     "Geranio",
+     "Jazmín"
+    ],
+    "base": [
+     "Almizcle",
+     "Musgo de roble",
+     "Cedro",
+     "Tabaco",
+     "Ámbar gris"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901840758.jpg"
+  },
+  {
+   "id": 27,
+   "nombre": "Dior Homme Intense 2007",
+   "marca": "Dior",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "atalcado",
+     100
+    ],
+    [
+     "iris",
+     97
+    ],
+    [
+     "vainilla",
+     96
+    ],
+    [
+     "amaderado",
+     76
+    ],
+    [
+     "ámbar",
+     68
+    ],
+    [
+     "terroso",
+     67
+    ],
+    [
+     "violeta",
+     64
+    ],
+    [
+     "aromático",
+     44
+    ]
+   ],
+   "notas": {
+    "general": [
+     "Iris",
+     "Vainilla",
+     "Ámbar",
+     "Cedro",
+     "Vetiver"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901902418.jpg"
+  },
+  {
+   "id": 7,
+   "nombre": "Flowerbomb",
+   "marca": "Viktor&Rolf",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "mujer",
+   "acordes": [
+    [
+     "floral",
+     100
+    ],
+    [
+     "pachulí",
+     75
+    ],
+    [
+     "floral blanco",
+     70
+    ],
+    [
+     "amaderado",
+     59
+    ],
+    [
+     "atalcado",
+     58
+    ],
+    [
+     "cítrico",
+     58
+    ],
+    [
+     "dulce",
+     54
+    ],
+    [
+     "almizclado",
+     53
+    ],
+    [
+     "cálido especiado",
+     52
+    ],
+    [
+     "rosa",
+     51
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Té",
+     "Bergamota",
+     "Osmanto"
+    ],
+    "heart": [
+     "Orquídea",
+     "Jazmín",
+     "Rosa",
+     "fresia",
+     "Flor de naranjo africana"
+    ],
+    "base": [
+     "Pachulí",
+     "Almizcle",
+     "Vainilla"
+    ]
+   },
+   "disponible": {
+    "Punto Villas": {
+     "venta": [],
+     "decant": true
+    }
+   },
+   "foto": "fotos/bottle-1793881793953.jpg"
+  },
+  {
+   "id": 29,
+   "nombre": "Gucci Bloom",
+   "marca": "Gucci",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "mujer",
+   "acordes": [
+    [
+     "floral blanco",
+     100
+    ],
+    [
+     "nardos",
+     69
+    ],
+    [
+     "floral",
+     44
+    ],
+    [
+     "animálico",
+     44
+    ],
+    [
+     "verde",
+     38
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Jazmín"
+    ],
+    "heart": [
+     "Nardos"
+    ],
+    "base": [
+     "Enredadera de Rangún"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901994917.jpg"
+  },
+  {
+   "id": 3,
+   "nombre": "Hawas Ice",
+   "marca": "Rasasi",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "afrutados",
+     100
+    ],
+    [
+     "cítrico",
+     92
+    ],
+    [
+     "dulce",
+     57
+    ],
+    [
+     "fresco",
+     54
+    ],
+    [
+     "aromático",
+     52
+    ],
+    [
+     "almizclado",
+     50
+    ],
+    [
+     "atalcado",
+     49
+    ],
+    [
+     "fresco especiado",
+     49
+    ],
+    [
+     "verde",
+     47
+    ],
+    [
+     "ámbar",
+     46
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Manzana",
+     "Limón italiano",
+     "Bergamota de Sicilia",
+     "Anís estrellado"
+    ],
+    "heart": [
+     "Ciruela",
+     "Flor de azahar",
+     "Cardamomo"
+    ],
+    "base": [
+     "Almizcle",
+     "Ámbar",
+     "Madera flotante",
+     "Musgo"
+    ]
+   },
+   "disponible": {
+    "Punto Villas": {
+     "venta": [],
+     "decant": true
+    },
+    "Paseo de la Rosita": {
+     "venta": [
+      100
+     ],
+     "decant": false
+    }
+   },
+   "foto": "fotos/bottle-1793881439170.jpg"
+  },
+  {
+   "id": 23,
+   "nombre": "Imagination",
+   "marca": "Louis Vuitton",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "fresco especiado",
+     54
+    ],
+    [
+     "verde",
+     49
+    ],
+    [
+     "fresco",
+     48
+    ],
+    [
+     "aromático",
+     38
+    ]
+   ],
+   "notas": {
+    "top": [
+     "cidra",
+     "bergamota de Calabria",
+     "naranja siciliana"
+    ],
+    "heart": [
+     "neroli de Túnez",
+     "jengibre nigeriano",
+     "canela de Ceylan"
+    ],
+    "base": [
+     "té negro de China",
+     "Ambroxan",
+     "Madera de guayaco",
+     "incienso de olíbano (franquincienso)"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901780519.jpg"
+  },
+  {
+   "id": 5,
+   "nombre": "J'adore",
+   "marca": "Dior",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "mujer",
+   "acordes": [
+    [
+     "floral blanco",
+     100
+    ],
+    [
+     "floral",
+     87
+    ],
+    [
+     "afrutados",
+     82
+    ],
+    [
+     "dulce",
+     65
+    ],
+    [
+     "fresco",
+     64
+    ],
+    [
+     "acuático",
+     55
+    ],
+    [
+     "cítrico",
+     55
+    ],
+    [
+     "atalcado",
+     52
+    ],
+    [
+     "ozónico",
+     47
+    ],
+    [
+     "nardos",
+     47
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Pera",
+     "Melón",
+     "Magnolia",
+     "Durazno",
+     "Mandarina",
+     "Bergamota"
+    ],
+    "heart": [
+     "Jazmín",
+     "Lirio de los valles",
+     "Nardos",
+     "fresia",
+     "Rosa",
+     "Orquídea",
+     "Violeta",
+     "Ciruela"
+    ],
+    "base": [
+     "Almizcle",
+     "Vainilla",
+     "Cedro",
+     "Mora"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793881718632.jpg"
+  },
+  {
+   "id": 21,
+   "nombre": "Jazz Club",
+   "marca": "Maison Martin Margiela",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "tabaco",
+     100
+    ],
+    [
+     "dulce",
+     89
+    ],
+    [
+     "vainilla",
+     83
+    ],
+    [
+     "ron",
+     82
+    ],
+    [
+     "amaderado",
+     71
+    ],
+    [
+     "aromático",
+     67
+    ],
+    [
+     "suave especiado",
+     64
+    ],
+    [
+     "ámbar",
+     51
+    ],
+    [
+     "atalcado",
+     46
+    ],
+    [
+     "cálido especiado",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Pimienta rosa",
+     "Neroli",
+     "Limón"
+    ],
+    "heart": [
+     "Ron",
+     "aceite de vetiver de Java",
+     "esclarea"
+    ],
+    "base": [
+     "hojas de tabaco",
+     "vaina de vainilla",
+     "styrax"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901713852.jpg"
+  },
+  {
+   "id": 33,
+   "nombre": "Jean Lowe Immortal",
+   "marca": "Maison Alhambra",
+   "concentracion": "",
+   "inspirado_en": "L'Immensité (LV)",
+   "para": "hombre",
+   "acordes": [
+    [
+     "fresco especiado",
+     100
+    ],
+    [
+     "cítrico",
+     88
+    ],
+    [
+     "aromático",
+     75
+    ],
+    [
+     "ámbar",
+     70
+    ],
+    [
+     "fresco",
+     55
+    ],
+    [
+     "almizclado",
+     47
+    ],
+    [
+     "herbal",
+     45
+    ],
+    [
+     "acuático",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Jengibre",
+     "Toronja",
+     "Bergamota"
+    ],
+    "heart": [
+     "Romero",
+     "Notas acuáticas",
+     "Salvia",
+     "Geranio"
+    ],
+    "base": [
+     "Ambroxan",
+     "Ámbar",
+     "ládano"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902189117.jpg"
+  },
+  {
+   "id": 34,
+   "nombre": "Kaaf",
+   "marca": "Ahmed Al Maghribi",
+   "concentracion": "",
+   "inspirado_en": "Percival (PDM)",
+   "para": "unisex",
+   "acordes": [
+    [
+     "almizclado",
+     100
+    ],
+    [
+     "lavanda",
+     96
+    ],
+    [
+     "ozónico",
+     73
+    ],
+    [
+     "acuático",
+     71
+    ],
+    [
+     "atalcado",
+     70
+    ],
+    [
+     "floral blanco",
+     69
+    ],
+    [
+     "ámbar",
+     64
+    ],
+    [
+     "amaderado",
+     60
+    ],
+    [
+     "aromático",
+     59
+    ],
+    [
+     "floral",
+     56
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Lavanda",
+     "Sandía",
+     "Sicilian Orange",
+     "Red Fruits"
+    ],
+    "heart": [
+     "Lily of the Valley",
+     "Jazmín",
+     "Flor de loto"
+    ],
+    "base": [
+     "Almizcle blanco",
+     "Ambroxan",
+     "Sándalo"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902223405.jpg"
+  },
+  {
+   "id": 18,
+   "nombre": "Khamrah",
+   "marca": "Lattafa Perfumes",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "dulce",
+     100
+    ],
+    [
+     "cálido especiado",
+     82
+    ],
+    [
+     "vainilla",
+     81
+    ],
+    [
+     "ámbar",
+     76
+    ],
+    [
+     "canela",
+     69
+    ],
+    [
+     "amaderado",
+     49
+    ],
+    [
+     "fresco especiado",
+     48
+    ],
+    [
+     "afrutados",
+     44
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Canela",
+     "Nuez moscada",
+     "Bergamota"
+    ],
+    "heart": [
+     "dátiles",
+     "Praline",
+     "Nardos",
+     "Mahonial"
+    ],
+    "base": [
+     "Vainilla",
+     "Haba tonka",
+     "Amberwood",
+     "Mirra",
+     "Benjuí",
+     "Akigalawood"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901570301.jpg"
+  },
+  {
+   "id": 31,
+   "nombre": "Layton",
+   "marca": "Parfums de Marly",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cálido especiado",
+     100
+    ],
+    [
+     "fresco especiado",
+     90
+    ],
+    [
+     "amaderado",
+     88
+    ],
+    [
+     "vainilla",
+     87
+    ],
+    [
+     "aromático",
+     82
+    ],
+    [
+     "afrutados",
+     73
+    ],
+    [
+     "atalcado",
+     70
+    ],
+    [
+     "lavanda",
+     64
+    ],
+    [
+     "fresco",
+     58
+    ],
+    [
+     "cítrico",
+     58
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Manzana",
+     "Lavanda",
+     "Bergamota",
+     "Mandarina"
+    ],
+    "heart": [
+     "Geranio",
+     "Violeta",
+     "Jazmín"
+    ],
+    "base": [
+     "Vainilla",
+     "Cardamomo",
+     "Sándalo",
+     "Pimienta",
+     "Madera de guayaco",
+     "Pachulí"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902048425.jpg"
+  },
+  {
+   "id": 37,
+   "nombre": "Liquid Brun",
+   "marca": "French Avenue",
+   "concentracion": "",
+   "inspirado_en": "Althair (PDM)",
+   "para": "hombre",
+   "acordes": [
+    [
+     "dulce",
+     100
+    ],
+    [
+     "cálido especiado",
+     99
+    ],
+    [
+     "vainilla",
+     97
+    ],
+    [
+     "canela",
+     80
+    ],
+    [
+     "floral blanco",
+     61
+    ],
+    [
+     "atalcado",
+     61
+    ],
+    [
+     "aromático",
+     58
+    ],
+    [
+     "cítrico",
+     58
+    ],
+    [
+     "almizclado",
+     57
+    ],
+    [
+     "ámbar",
+     52
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Canela",
+     "Flor de azahar",
+     "Cardamomo",
+     "Bergamota"
+    ],
+    "heart": [
+     "Bourbon Vanilla",
+     "Elemi"
+    ],
+    "base": [
+     "Praline",
+     "Ambroxan",
+     "Almizcle",
+     "Madera de guayaco"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902365879.jpg"
+  },
+  {
+   "id": 10,
+   "nombre": "Mitsouko Eau de Parfum",
+   "marca": "Guerlain",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "musgoso",
+     100
+    ],
+    [
+     "terroso",
+     98
+    ],
+    [
+     "cálido especiado",
+     96
+    ],
+    [
+     "amaderado",
+     86
+    ],
+    [
+     "cítrico",
+     83
+    ],
+    [
+     "canela",
+     65
+    ],
+    [
+     "floral",
+     65
+    ],
+    [
+     "afrutados",
+     64
+    ],
+    [
+     "aromático",
+     62
+    ],
+    [
+     "dulce",
+     59
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Bergamota",
+     "cítricos",
+     "Jazmín",
+     "Rosa"
+    ],
+    "heart": [
+     "Durazno",
+     "Ylang-ylang",
+     "Jazmín",
+     "Rosa",
+     "Lila"
+    ],
+    "base": [
+     "Musgo de roble",
+     "Spices",
+     "Canela",
+     "Vetiver",
+     "Ámbar"
+    ]
+   },
+   "disponible": {
+    "Paseo de la Rosita": {
+     "venta": [
+      100
+     ],
+     "decant": false
+    }
+   },
+   "foto": "fotos/bottle-1793881910835.jpg"
+  },
+  {
+   "id": 35,
+   "nombre": "Nava Sol",
+   "marca": "Rayhaan",
+   "concentracion": "",
+   "inspirado_en": "Mojave Ghost (Byredo)",
+   "para": "unisex",
+   "acordes": [
+    [
+     "floral",
+     100
+    ],
+    [
+     "atalcado",
+     90
+    ],
+    [
+     "almizclado",
+     89
+    ],
+    [
+     "violeta",
+     74
+    ],
+    [
+     "afrutados",
+     64
+    ],
+    [
+     "amaderado",
+     63
+    ],
+    [
+     "cítrico",
+     47
+    ],
+    [
+     "dulce",
+     46
+    ],
+    [
+     "ámbar",
+     45
+    ],
+    [
+     "animálico",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Sapodilla",
+     "Ambrette"
+    ],
+    "heart": [
+     "Violeta",
+     "Magnolia",
+     "Sándalo"
+    ],
+    "base": [
+     "Almizcle",
+     "Ámbar gris",
+     "Cedro"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902262425.jpg"
+  },
+  {
+   "id": 20,
+   "nombre": "Ombré Leather (2018)",
+   "marca": "Tom Ford",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cuero",
+     100
+    ],
+    [
+     "animálico",
+     71
+    ],
+    [
+     "cálido especiado",
+     59
+    ],
+    [
+     "floral blanco",
+     57
+    ],
+    [
+     "ámbar",
+     54
+    ],
+    [
+     "ahumado",
+     51
+    ],
+    [
+     "terroso",
+     48
+    ],
+    [
+     "musgoso",
+     46
+    ],
+    [
+     "pachulí",
+     45
+    ],
+    [
+     "amaderado",
+     44
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Cardamomo"
+    ],
+    "heart": [
+     "Cuero",
+     "jazmín sambac (sampaguita)"
+    ],
+    "base": [
+     "Ámbar",
+     "Musgo",
+     "Pachulí"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901623123.jpg"
+  },
+  {
+   "id": 9,
+   "nombre": "Oud Wood",
+   "marca": "Tom Ford",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "amaderado",
+     100
+    ],
+    [
+     "cálido especiado",
+     78
+    ],
+    [
+     "oud",
+     78
+    ],
+    [
+     "aromático",
+     65
+    ],
+    [
+     "vainilla",
+     61
+    ],
+    [
+     "balsámico",
+     58
+    ],
+    [
+     "fresco especiado",
+     57
+    ],
+    [
+     "ámbar",
+     54
+    ],
+    [
+     "atalcado",
+     52
+    ],
+    [
+     "dulce",
+     51
+    ]
+   ],
+   "notas": {
+    "general": [
+     "Madera de oud",
+     "Palo de rosa brasileño",
+     "Cardamomo",
+     "Sándalo",
+     "Pimienta de Sichuan",
+     "Vainilla",
+     "Vetiver",
+     "Haba tonka",
+     "Ámbar"
+    ]
+   },
+   "disponible": {
+    "Punto Villas": {
+     "venta": [
+      50
+     ],
+     "decant": false
+    }
+   },
+   "foto": "fotos/bottle-1793881865647.jpg"
+  },
+  {
+   "id": 28,
+   "nombre": "Prada L'Homme",
+   "marca": "Prada",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "atalcado",
+     100
+    ],
+    [
+     "iris",
+     87
+    ],
+    [
+     "violeta",
+     84
+    ],
+    [
+     "amaderado",
+     78
+    ],
+    [
+     "fresco especiado",
+     64
+    ],
+    [
+     "cálido especiado",
+     61
+    ],
+    [
+     "aromático",
+     57
+    ],
+    [
+     "terroso",
+     57
+    ],
+    [
+     "ámbar",
+     53
+    ],
+    [
+     "floral",
+     49
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Neroli",
+     "Pimienta negra",
+     "Cardamomo",
+     "semillas de zanahoria"
+    ],
+    "heart": [
+     "Iris",
+     "Violeta",
+     "Geranio",
+     "yerba mate"
+    ],
+    "base": [
+     "Ámbar",
+     "Cedro",
+     "Sándalo",
+     "Pachulí"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901948183.jpg"
+  },
+  {
+   "id": 4,
+   "nombre": "Santal 33",
+   "marca": "Le Labo",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "amaderado",
+     100
+    ],
+    [
+     "atalcado",
+     65
+    ],
+    [
+     "cuero",
+     59
+    ],
+    [
+     "cálido especiado",
+     55
+    ],
+    [
+     "violeta",
+     48
+    ]
+   ],
+   "notas": {
+    "general": [
+     "Sándalo",
+     "Cuero",
+     "Papiro",
+     "Cedro de Virginia",
+     "Cardamomo",
+     "Violeta",
+     "Iris",
+     "Ámbar"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793881474377.jpg"
+  },
+  {
+   "id": 12,
+   "nombre": "Sauvage",
+   "marca": "Dior",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "fresco especiado",
+     100
+    ],
+    [
+     "ámbar",
+     71
+    ],
+    [
+     "cítrico",
+     69
+    ],
+    [
+     "aromático",
+     64
+    ],
+    [
+     "almizclado",
+     57
+    ],
+    [
+     "amaderado",
+     55
+    ],
+    [
+     "lavanda",
+     47
+    ],
+    [
+     "herbal",
+     46
+    ],
+    [
+     "cálido especiado",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "bergamota de Calabria",
+     "Pimienta"
+    ],
+    "heart": [
+     "Pimienta de Sichuan",
+     "Lavanda",
+     "Pimienta rosa",
+     "Vetiver",
+     "Pachulí",
+     "Geranio",
+     "Elemi"
+    ],
+    "base": [
+     "Ambroxan",
+     "Cedro",
+     "ládano"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793881968580.jpg"
+  },
+  {
+   "id": 8,
+   "nombre": "Shalimar Eau de Parfum",
+   "marca": "Guerlain",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "mujer",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "ámbar",
+     98
+    ],
+    [
+     "amaderado",
+     87
+    ],
+    [
+     "vainilla",
+     82
+    ],
+    [
+     "atalcado",
+     79
+    ],
+    [
+     "balsámico",
+     79
+    ],
+    [
+     "ahumado",
+     74
+    ],
+    [
+     "cuero",
+     66
+    ],
+    [
+     "animálico",
+     64
+    ],
+    [
+     "cálido especiado",
+     63
+    ]
+   ],
+   "notas": {
+    "top": [
+     "cítricos",
+     "Bergamota",
+     "Limón",
+     "Cedro",
+     "Mandarina"
+    ],
+    "heart": [
+     "Iris",
+     "Pachulí",
+     "Vetiver",
+     "Jazmín",
+     "Rosa"
+    ],
+    "base": [
+     "Incienso",
+     "Vainilla",
+     "Cuero",
+     "opopónaco",
+     "algalia (civet)",
+     "Sándalo",
+     "Haba tonka",
+     "Almizcle"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793881824849.jpg"
+  },
+  {
+   "id": 32,
+   "nombre": "Shiyaaka Snow",
+   "marca": "Khadlaj Perfumes",
+   "concentracion": "",
+   "inspirado_en": "Meteore (LV)",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "fresco especiado",
+     65
+    ],
+    [
+     "aromático",
+     65
+    ],
+    [
+     "suave especiado",
+     49
+    ],
+    [
+     "amaderado",
+     47
+    ],
+    [
+     "cálido especiado",
+     47
+    ],
+    [
+     "verde",
+     45
+    ],
+    [
+     "floral blanco",
+     44
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Bergamota",
+     "Mandarina"
+    ],
+    "heart": [
+     "Neroli",
+     "Pimienta rosa",
+     "Nuez moscada"
+    ],
+    "base": [
+     "Vetiver",
+     "Cardamomo"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902109861.jpg"
+  },
+  {
+   "id": 24,
+   "nombre": "Silver Mountain Water",
+   "marca": "Creed",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "verde",
+     95
+    ],
+    [
+     "afrutados",
+     73
+    ],
+    [
+     "almizclado",
+     70
+    ],
+    [
+     "amaderado",
+     68
+    ],
+    [
+     "aromático",
+     65
+    ],
+    [
+     "atalcado",
+     63
+    ],
+    [
+     "fresco especiado",
+     61
+    ],
+    [
+     "fresco",
+     46
+    ],
+    [
+     "floral",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Bergamota",
+     "Mandarina"
+    ],
+    "heart": [
+     "Té verde",
+     "Grosellas negras"
+    ],
+    "base": [
+     "Almizcle",
+     "petit grain",
+     "Sándalo",
+     "Gálbano"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901805538.jpg"
+  },
+  {
+   "id": 30,
+   "nombre": "Spicebomb",
+   "marca": "Viktor&Rolf",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "cálido especiado",
+     100
+    ],
+    [
+     "canela",
+     80
+    ],
+    [
+     "tabaco",
+     70
+    ],
+    [
+     "dulce",
+     57
+    ],
+    [
+     "suave especiado",
+     57
+    ],
+    [
+     "cuero",
+     56
+    ],
+    [
+     "aromático",
+     54
+    ],
+    [
+     "cítrico",
+     52
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Pimienta rosa",
+     "Elemi",
+     "Bergamota",
+     "Toronja"
+    ],
+    "heart": [
+     "Canela",
+     "pimentón dulce (paprika)",
+     "Azafrán"
+    ],
+    "base": [
+     "Tabaco",
+     "Cuero",
+     "Vetiver"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902024678.jpg"
+  },
+  {
+   "id": 22,
+   "nombre": "Terre d'Hermès",
+   "marca": "Hermès",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "amaderado",
+     92
+    ],
+    [
+     "fresco especiado",
+     79
+    ],
+    [
+     "aromático",
+     77
+    ],
+    [
+     "terroso",
+     60
+    ],
+    [
+     "cálido especiado",
+     54
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Naranja",
+     "Toronja"
+    ],
+    "heart": [
+     "Pimienta",
+     "pelargonio",
+     "Sílex"
+    ],
+    "base": [
+     "Vetiver",
+     "Cedro",
+     "Pachulí",
+     "Benjuí"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901747473.jpg"
+  },
+  {
+   "id": 15,
+   "nombre": "Tobacco Vanille",
+   "marca": "Tom Ford",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "vainilla",
+     100
+    ],
+    [
+     "dulce",
+     94
+    ],
+    [
+     "tabaco",
+     85
+    ],
+    [
+     "cálido especiado",
+     72
+    ],
+    [
+     "afrutados",
+     60
+    ],
+    [
+     "amaderado",
+     54
+    ],
+    [
+     "cacao",
+     53
+    ],
+    [
+     "atalcado",
+     49
+    ]
+   ],
+   "notas": {
+    "top": [
+     "hojas de tabaco",
+     "notas especiadas"
+    ],
+    "heart": [
+     "Vainilla",
+     "Cacao",
+     "Haba tonka",
+     "flor del tabaco"
+    ],
+    "base": [
+     "frutas secas",
+     "Notas amaderadas"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793901492038.jpg"
+  },
+  {
+   "id": 11,
+   "nombre": "Tuscan Leather",
+   "marca": "Tom Ford",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cuero",
+     100
+    ],
+    [
+     "afrutados",
+     56
+    ],
+    [
+     "animálico",
+     55
+    ],
+    [
+     "dulce",
+     48
+    ],
+    [
+     "ámbar",
+     47
+    ],
+    [
+     "ahumado",
+     45
+    ],
+    [
+     "cálido especiado",
+     45
+    ],
+    [
+     "amaderado",
+     44
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Frambuesa",
+     "Azafrán",
+     "Tomillo"
+    ],
+    "heart": [
+     "Olíbano",
+     "Jazmín"
+    ],
+    "base": [
+     "Cuero",
+     "Gamuza",
+     "Notas amaderadas",
+     "Ámbar"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793881935234.jpg"
+  },
+  {
+   "id": 36,
+   "nombre": "Y Eau de Parfum",
+   "marca": "Yves Saint Laurent",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "hombre",
+   "acordes": [
+    [
+     "aromático",
+     100
+    ],
+    [
+     "fresco especiado",
+     98
+    ],
+    [
+     "amaderado",
+     81
+    ],
+    [
+     "afrutados",
+     71
+    ],
+    [
+     "fresco",
+     67
+    ],
+    [
+     "ámbar",
+     66
+    ],
+    [
+     "cítrico",
+     62
+    ],
+    [
+     "herbal",
+     57
+    ],
+    [
+     "verde",
+     55
+    ],
+    [
+     "cálido especiado",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Manzana",
+     "Jengibre",
+     "Bergamota"
+    ],
+    "heart": [
+     "Salvia",
+     "Juniper Berries",
+     "Geranio"
+    ],
+    "base": [
+     "Amberwood",
+     "Haba tonka",
+     "Cedro",
+     "Vetiver",
+     "Olíbano"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793902325571.jpg"
+  }
+ ]
+}
