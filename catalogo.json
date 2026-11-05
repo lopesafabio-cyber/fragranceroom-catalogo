@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "actualizado": "2026-11-05T15:59:20",
+ "actualizado": "2026-11-05T17:05:30",
  "sucursales": [
   "Punto Villas",
   "Paseo de la Rosita"
@@ -698,7 +698,14 @@
      "ládano"
     ]
    },
-   "disponible": {},
+   "disponible": {
+    "Paseo de la Rosita": {
+     "venta": [
+      100
+     ],
+     "decant": false
+    }
+   },
    "foto": "fotos/bottle-1793901871551.jpg"
   },
   {
@@ -974,6 +981,79 @@
     }
    },
    "foto": "fotos/bottle-1793881793953.jpg"
+  },
+  {
+   "id": 40,
+   "nombre": "Galloway",
+   "marca": "Parfums de Marly",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "cítrico",
+     100
+    ],
+    [
+     "almizclado",
+     86
+    ],
+    [
+     "fresco especiado",
+     78
+    ],
+    [
+     "atalcado",
+     77
+    ],
+    [
+     "floral blanco",
+     67
+    ],
+    [
+     "iris",
+     57
+    ],
+    [
+     "fresco",
+     56
+    ],
+    [
+     "animálico",
+     49
+    ],
+    [
+     "ámbar",
+     47
+    ],
+    [
+     "dulce",
+     47
+    ]
+   ],
+   "notas": {
+    "top": [
+     "cítricos",
+     "Pimienta"
+    ],
+    "heart": [
+     "Flor de azahar",
+     "Iris"
+    ],
+    "base": [
+     "Almizcle",
+     "Ámbar"
+    ]
+   },
+   "disponible": {
+    "Paseo de la Rosita": {
+     "venta": [
+      100
+     ],
+     "decant": false
+    }
+   },
+   "foto": "fotos/bottle-1793919870380.jpg"
   },
   {
    "id": 29,
