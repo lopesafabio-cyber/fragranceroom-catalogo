@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "actualizado": "2026-11-05T13:08:29",
+ "actualizado": "2026-11-05T15:02:58",
  "sucursales": [
   "Punto Villas",
   "Paseo de la Rosita"
@@ -274,6 +274,76 @@
    },
    "disponible": {},
    "foto": "fotos/bottle-1793901515712.jpg"
+  },
+  {
+   "id": 39,
+   "nombre": "Angham",
+   "marca": "Lattafa Perfumes",
+   "concentracion": "",
+   "inspirado_en": "",
+   "para": "unisex",
+   "acordes": [
+    [
+     "vainilla",
+     100
+    ],
+    [
+     "dulce",
+     90
+    ],
+    [
+     "lavanda",
+     84
+    ],
+    [
+     "fresco especiado",
+     70
+    ],
+    [
+     "atalcado",
+     65
+    ],
+    [
+     "ámbar",
+     59
+    ],
+    [
+     "almizclado",
+     56
+    ],
+    [
+     "cítrico",
+     55
+    ],
+    [
+     "cacao",
+     53
+    ],
+    [
+     "aromático",
+     52
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Jengibre",
+     "Mandarin",
+     "Pimienta rosa"
+    ],
+    "heart": [
+     "Lavanda",
+     "Praline",
+     "Cacao",
+     "Jazmín"
+    ],
+    "base": [
+     "Vainilla",
+     "Ámbar",
+     "Almizcle"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1793912523027.jpg"
   },
   {
    "id": 38,

@@ -1,7 +1,14 @@
 {
  "formato": 1,
- "actualizado": "2026-11-05T13:08:29",
+ "actualizado": "2026-11-05T15:02:58",
  "avisos": [
+  {
+   "id": 2,
+   "fecha": "2026-11-05T15:02:58",
+   "titulo": "✨ Recién llegados",
+   "texto": "Se hará un descuento de 10% lo que sea",
+   "perfumes": []
+  },
   {
    "id": 1,
    "fecha": "2026-11-05T09:38:38",
