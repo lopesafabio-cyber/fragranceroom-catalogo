@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "actualizado": "2026-11-12T12:51:52",
+ "actualizado": "2026-11-12T13:34:38",
  "sucursales": [
   "Punto Villas",
   "Paseo de la Rosita"
@@ -1479,7 +1479,7 @@
    "nombre": "9pm",
    "marca": "Afnan",
    "concentracion": "",
-   "inspirado_en": "Ultra Male",
+   "inspirado_en": "Ultra Male (JPG)",
    "para": "hombre",
    "acordes": [
     [
@@ -3603,7 +3603,7 @@
    "nombre": "Amber Noir",
    "marca": "Orientica Premium",
    "concentracion": "",
-   "inspirado_en": "Santal 33\n\n(Le Labo)",
+   "inspirado_en": "Santal 33 (Le Labo)",
    "para": "unisex",
    "acordes": [
     [
@@ -5547,7 +5547,7 @@
    "nombre": "Aristo",
    "marca": "Arabiyat Prestige",
    "concentracion": "",
-   "inspirado_en": "Ingenious Ginger",
+   "inspirado_en": "Ingenious Ginger (Goldfield & Banks Australia)",
    "para": "hombre",
    "acordes": [
     [
@@ -5944,7 +5944,7 @@
    "nombre": "Arsh",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "L’Homme Idéal Platine Privé",
+   "inspirado_en": "L’Homme Idéal Platine Privé (Guerlain)",
    "para": "unisex",
    "acordes": [
     [
@@ -6122,7 +6122,7 @@
    "nombre": "Art Of Universe",
    "marca": "Lattafa Perfumes",
    "concentracion": "",
-   "inspirado_en": "Blue Talisman",
+   "inspirado_en": "Blue Talisman (Ex Nihilo)",
    "para": "unisex",
    "acordes": [
     [
@@ -7393,7 +7393,7 @@
    "nombre": "Azzure Oud",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Oud Maracujá",
+   "inspirado_en": "Oud Maracujá (Maison Crivelli)",
    "para": "hombre",
    "acordes": [
     [
@@ -10934,7 +10934,7 @@
    "nombre": "Bois Blanc",
    "marca": "Arabiyat Prestige",
    "concentracion": "",
-   "inspirado_en": "Bois Impérial",
+   "inspirado_en": "Bois Impérial (Essential Parfums)",
    "para": "unisex",
    "acordes": [
     [
@@ -11118,7 +11118,7 @@
    "nombre": "Bonfire Vanilla",
    "marca": "Mykonos",
    "concentracion": "",
-   "inspirado_en": "By the Fireplace",
+   "inspirado_en": "By the fireplace (Maison Margella)",
    "para": "unisex",
    "acordes": [
     [
@@ -13454,6 +13454,74 @@
    "foto": "fotos/bottle-1794413180411.jpg"
   },
   {
+   "id": 1209,
+   "nombre": "Captcha 36",
+   "marca": "Emper",
+   "concentracion": "",
+   "inspirado_en": "The Matcha 26 (Le Labo)",
+   "para": "unisex",
+   "acordes": [
+    [
+     "floral blanco",
+     100
+    ],
+    [
+     "cítrico",
+     89
+    ],
+    [
+     "aldehídico",
+     88
+    ],
+    [
+     "fresco",
+     65
+    ],
+    [
+     "almizclado",
+     60
+    ],
+    [
+     "dulce",
+     58
+    ],
+    [
+     "jabonoso",
+     56
+    ],
+    [
+     "vainilla",
+     55
+    ],
+    [
+     "rosa",
+     52
+    ],
+    [
+     "atalcado",
+     49
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Aldehídos",
+     "Mandarina",
+     "Flor de azahar"
+    ],
+    "heart": [
+     "Jazmín",
+     "Rosa"
+    ],
+    "base": [
+     "Almizcle",
+     "Vainilla",
+     "Haba tonka"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1794510903323.jpg"
+  },
+  {
    "id": 48,
    "nombre": "Carlisle",
    "marca": "Parfums de Marly",
@@ -14594,7 +14662,7 @@
    "nombre": "Chaos",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Kirsch Headspace",
+   "inspirado_en": "Kirsch Headspace (Headspace)",
    "para": "unisex",
    "acordes": [
     [
@@ -15471,7 +15539,7 @@
    "nombre": "Cloud Candy",
    "marca": "Khadlaj Perfumes",
    "concentracion": "",
-   "inspirado_en": "Yum Boujee Marshmallow",
+   "inspirado_en": "Yum Boujee Marshmallow | 81 (Kayali)",
    "para": "unisex",
    "acordes": [
     [
@@ -17625,7 +17693,7 @@
    "nombre": "Cocoa Morado",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Oud Cadenza",
+   "inspirado_en": "Oud Cadenza (Maison Crivelli)",
    "para": "unisex",
    "acordes": [
     [
@@ -20387,7 +20455,7 @@
    "nombre": "Dreamscape",
    "marca": "Mykonos",
    "concentracion": "",
-   "inspirado_en": "God of Fire",
+   "inspirado_en": "God of Fire (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -24254,7 +24322,7 @@
    "nombre": "Falak",
    "marca": "Nusuk",
    "concentracion": "",
-   "inspirado_en": "Escapade Gourmande",
+   "inspirado_en": "Escapade Gourmande (Maison Mataha)",
    "para": "unisex",
    "acordes": [
     [
@@ -24932,7 +25000,7 @@
    "nombre": "Fierte Luna",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "XJ 1861 Naxos",
+   "inspirado_en": "XJ 1861 Naxos (Xerjoff)",
    "para": "unisex",
    "acordes": [
     [
@@ -26192,7 +26260,7 @@
    "nombre": "Fursan White",
    "marca": "Khadlaj Perfumes",
    "concentracion": "",
-   "inspirado_en": "Vanilla Powder",
+   "inspirado_en": "Vanilla Powder (Matière Première)",
    "para": "mujer",
    "acordes": [
     [
@@ -26333,7 +26401,7 @@
    "nombre": "Game of Spades Ace",
    "marca": "Jo Milano Paris",
    "concentracion": "",
-   "inspirado_en": "Nọ 4 - Après l’Amour",
+   "inspirado_en": "Nọ 4 - Après l’Amour (Thomas Kosmala)",
    "para": "unisex",
    "acordes": [
     [
@@ -27415,7 +27483,7 @@
    "nombre": "Game Of Spades Platinum",
    "marca": "Jo Milano Paris",
    "concentracion": "",
-   "inspirado_en": "Nọ 4 - Après l’Amour",
+   "inspirado_en": "Nọ 4 - Après l’Amour (Thomas Kosmala)",
    "para": "unisex",
    "acordes": [
     [
@@ -27722,7 +27790,7 @@
    "nombre": "Game of Spades Wildcard",
    "marca": "Jo Milano Paris",
    "concentracion": "",
-   "inspirado_en": "Lafayette Street",
+   "inspirado_en": "Lafayette Street (Bond No 9)",
    "para": "unisex",
    "acordes": [
     [
@@ -33849,7 +33917,7 @@
    "nombre": "Her Confession",
    "marca": "Lattafa Perfumes",
    "concentracion": "",
-   "inspirado_en": "Blance Bête",
+   "inspirado_en": "Blanche Bête (Les Liquides Imaginaires)",
    "para": "mujer",
    "acordes": [
     [
@@ -37152,7 +37220,7 @@
    "nombre": "Ishq Al Shuyukh Silver",
    "marca": "Lattafa Perfumes",
    "concentracion": "",
-   "inspirado_en": "1 Million Lucky",
+   "inspirado_en": "1 Million Lucky (Rabanne)",
    "para": "unisex",
    "acordes": [
     [
@@ -39010,7 +39078,7 @@
    "nombre": "Junoon Noir",
    "marca": "Al Haramain Perfumes",
    "concentracion": "",
-   "inspirado_en": "Dama Bianca",
+   "inspirado_en": "Dama Bianca (Casamorati 1888)",
    "para": "mujer",
    "acordes": [
     [
@@ -43372,7 +43440,7 @@
    "nombre": "Legacy",
    "marca": "MAISON ASRAR",
    "concentracion": "",
-   "inspirado_en": "Blue Talisman",
+   "inspirado_en": "Blue Talisman (Ex Nihilo)",
    "para": "unisex",
    "acordes": [
     [
@@ -46754,7 +46822,7 @@
    "nombre": "Mahd Al Dhahab",
    "marca": "Arabiyat Prestige",
    "concentracion": "",
-   "inspirado_en": "Drunk Lovers",
+   "inspirado_en": "Drunk Lovers (BORNTOSTANDOUT)",
    "para": "unisex",
    "acordes": [
     [
@@ -47082,7 +47150,7 @@
    "nombre": "Marwa Extrait",
    "marca": "Arabiyat Prestige",
    "concentracion": "",
-   "inspirado_en": "Imagintion (LV)",
+   "inspirado_en": "Imagination (LV)",
    "para": "unisex",
    "acordes": [
     [
@@ -47671,7 +47739,7 @@
    "nombre": "Mercedes Benz Man Private",
    "marca": "Mercedes-Benz",
    "concentracion": "",
-   "inspirado_en": "Halfeti",
+   "inspirado_en": "Halfeti (Penhaligon's)",
    "para": "hombre",
    "acordes": [
     [
@@ -48612,7 +48680,7 @@
    "nombre": "Mod Vanilla",
    "marca": "Ariana Grande",
    "concentracion": "",
-   "inspirado_en": "Cheirosa '40",
+   "inspirado_en": "Cheirosa '40 (Sol de Janeiro)",
    "para": "mujer",
    "acordes": [
     [
@@ -52949,7 +53017,7 @@
    "nombre": "Obsidian",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Angels Share On the Rocks",
+   "inspirado_en": "Angels' Share On the Rocks",
    "para": "unisex",
    "acordes": [
     [
@@ -53409,7 +53477,7 @@
    "nombre": "Odyssey Go Mango",
    "marca": "Armaf",
    "concentracion": "",
-   "inspirado_en": "God of Fire",
+   "inspirado_en": "God of Fire (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -53550,7 +53618,7 @@
    "nombre": "Odyssey Homme White Edition",
    "marca": "Armaf",
    "concentracion": "",
-   "inspirado_en": "Stronger With You",
+   "inspirado_en": "Stronger with You",
    "para": "hombre",
    "acordes": [
     [
@@ -55053,7 +55121,7 @@
    "nombre": "Opulent Dubai",
    "marca": "Lattafa Perfumes",
    "concentracion": "",
-   "inspirado_en": "God of Fire",
+   "inspirado_en": "God of Fire (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -56311,7 +56379,7 @@
    "nombre": "Pacific",
    "marca": "Rayhaan",
    "concentracion": "",
-   "inspirado_en": "Invictus Aqua",
+   "inspirado_en": "Invictus Aqua (Rabanne)",
    "para": "hombre",
    "acordes": [
     [
@@ -60793,7 +60861,7 @@
    "nombre": "Raghba",
    "marca": "Lattafa Perfumes",
    "concentracion": "",
-   "inspirado_en": "Bouquet Ideale",
+   "inspirado_en": "Bouquet Ideale (Casamorati 1888)",
    "para": "unisex",
    "acordes": [
     [
@@ -61420,7 +61488,7 @@
    "nombre": "Ravine Ginger",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Ingenious Ginger",
+   "inspirado_en": "Ingenious Ginger (Goldfield & Banks Australia)",
    "para": "unisex",
    "acordes": [
     [
@@ -61493,7 +61561,7 @@
    "nombre": "Ravine Ice",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Pacific Rock Moss",
+   "inspirado_en": "Pacific Rock Moss (Goldfield & Banks Australia)",
    "para": "unisex",
    "acordes": [
     [
@@ -63543,7 +63611,7 @@
    "nombre": "Safari Breeze",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Tales from Zanzibar",
+   "inspirado_en": "Tales from Zanzibar (Memoirs Of A Perfume Collector)",
    "para": "unisex",
    "acordes": [
     [
@@ -63678,7 +63746,7 @@
    "nombre": "Sama",
    "marca": "Nusuk",
    "concentracion": "",
-   "inspirado_en": "Pacific Rock Moss",
+   "inspirado_en": "Pacific Rock Moss (Goldfield & Banks Australia)",
    "para": "unisex",
    "acordes": [
     [
@@ -64759,7 +64827,7 @@
    "nombre": "Sceptre Malachite",
    "marca": "Maison Alhambra",
    "concentracion": "",
-   "inspirado_en": "God of Fire",
+   "inspirado_en": "God of Fire (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -66421,7 +66489,7 @@
    "nombre": "Spectre",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Falcon Leather",
+   "inspirado_en": "Falcon Leather (Matière Première)",
    "para": "hombre",
    "acordes": [
     [
@@ -67179,6 +67247,54 @@
    },
    "disponible": {},
    "foto": "fotos/bottle-1794499461420.jpg"
+  },
+  {
+   "id": 1208,
+   "nombre": "Stallion 53",
+   "marca": "Emper",
+   "concentracion": "",
+   "inspirado_en": "Santal 33 (Le Labo)",
+   "para": "unisex",
+   "acordes": [
+    [
+     "amaderado",
+     100
+    ],
+    [
+     "cuero",
+     63
+    ],
+    [
+     "atalcado",
+     62
+    ],
+    [
+     "cálido especiado",
+     57
+    ],
+    [
+     "animálico",
+     45
+    ]
+   ],
+   "notas": {
+    "top": [
+     "Cardamomo",
+     "Violeta"
+    ],
+    "heart": [
+     "Ámbar",
+     "Iris"
+    ],
+    "base": [
+     "Sándalo",
+     "Cuero",
+     "Cedro de Virginia",
+     "Papiro"
+    ]
+   },
+   "disponible": {},
+   "foto": "fotos/bottle-1794510853750.jpg"
   },
   {
    "id": 852,
@@ -68367,7 +68483,7 @@
    "nombre": "Taif",
    "marca": "Riiffs Perfumes",
    "concentracion": "",
-   "inspirado_en": "Ingenious Ginger",
+   "inspirado_en": "Ingenious Ginger (Goldfield & Banks Australia)",
    "para": "unisex",
    "acordes": [
     [
@@ -68866,7 +68982,7 @@
    "nombre": "Thank U, Next",
    "marca": "Ariana Grande",
    "concentracion": "",
-   "inspirado_en": "Cheirosa '48",
+   "inspirado_en": "Cheirosa '48 (Sol de Janeiro)",
    "para": "mujer",
    "acordes": [
     [
@@ -69853,7 +69969,7 @@
    "nombre": "Tiger",
    "marca": "Rayhaan",
    "concentracion": "",
-   "inspirado_en": "Halfeti",
+   "inspirado_en": "Halfeti (Penhaligon's)",
    "para": "hombre",
    "acordes": [
     [
@@ -71116,7 +71232,7 @@
    "nombre": "Tropical Vibe",
    "marca": "Rayhaan",
    "concentracion": "",
-   "inspirado_en": "Summer Hammer",
+   "inspirado_en": "Summer Hammer (Lorenzo Pazzaglia)",
    "para": "unisex",
    "acordes": [
     [
@@ -73511,7 +73627,7 @@
    "nombre": "Valhalla",
    "marca": "Rayhaan",
    "concentracion": "",
-   "inspirado_en": "Royal Blend Sequoia",
+   "inspirado_en": "Royal Blend Sequoia (French Avenue)",
    "para": "hombre",
    "acordes": [
     [
@@ -74635,7 +74751,7 @@
    "nombre": "Veneno Scarlet",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Venom Incarnat",
+   "inspirado_en": "Venom Incarnat (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -76315,7 +76431,7 @@
    "nombre": "Vulcan Baie",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Pink Boa",
+   "inspirado_en": "Pink Boa (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -76374,7 +76490,7 @@
    "nombre": "Vulcan Black Friday",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Deified Tony Iommi Parfum",
+   "inspirado_en": "Deified Tony Iommi Parfum (Xerjoff)",
    "para": "hombre",
    "acordes": [
     [
@@ -76443,7 +76559,7 @@
    "nombre": "Vulcan Feu",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "God of Fire",
+   "inspirado_en": "God of Fire (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -76515,7 +76631,7 @@
    "nombre": "Vulcan Sable",
    "marca": "French Avenue",
    "concentracion": "",
-   "inspirado_en": "Sand Dance",
+   "inspirado_en": "Sand Dance (Stéphane Humbert Lucas 777)",
    "para": "unisex",
    "acordes": [
     [
@@ -77551,7 +77667,7 @@
    "nombre": "X Xandal",
    "marca": "Aromatix X French Avenue",
    "concentracion": "",
-   "inspirado_en": "Van Py Rhum",
+   "inspirado_en": "Van Py Rhum (Lorenzo Pazzaglia)",
    "para": "unisex",
    "acordes": [
     [
